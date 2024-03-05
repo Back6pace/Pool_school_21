@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "chrono": "c",
+        "state_sort.h": "c",
+        "__config": "c",
+        "__tuple": "c",
+        "bit": "c",
+        "istream": "c",
+        "locale": "c",
+        "random": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "*.tcc": "c",
+        "bitset": "c",
+        "algorithm": "c",
+        "memory": "c",
+        "iosfwd": "c",
+        "numeric": "c",
+        "ostream": "c",
+        "ratio": "c",
+        "sstream": "c",
+        "streambuf": "c"
+    }
+}

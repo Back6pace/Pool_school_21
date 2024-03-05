@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.tcc": "c",
+        "stdlib.h": "c",
+        "data_process.h": "c"
+    }
+}
